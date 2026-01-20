@@ -1,26 +1,35 @@
-# File Organizer & Safe Delete Scripts 🐐
+# File Organizer (Python)
 
-Organize your files and safely delete files/folders with these Python scripts.  
+A simple Python tool to organize files into folders based on their file extensions.
 
 ## Features
-- Move files into categorized folders based on file type (.lua, .txt, .docx, etc.)
-- Safely delete files or folders, with option to send to Recycle Bin or permanently remove
-- Easy to use, just run the scripts and follow prompts
+- Automatically sorts files into folders
+- Easy to use (no GUI required)
+- Lightweight and beginner-friendly
+- Works on Windows
 
-## Installation & Usage
-1. Download the scripts from this repository
-2. Make sure Python 3 is installed
-3. Follow the instructions in `README.txt` included with the scripts
-4. Run the scripts via command line or double-click
+## Supported File Types
+- `.txt`
+- `.docx`
+- (More can be added easily)
 
-## Donations & Support
+## Requirements
+- Python 3.x
 
-This project is currently free.
+## How to Use
+1. Download or clone this repository
+2. Run the script
+3. Enter the path of the folder you want to organize
+4. Files will be moved into appropriate folders automatically
 
-Monetization (donations via Gumroad) will be enabled in the future.
-For now, support is appreciated via feedback, bug reports, and community participation.
+## Notes
+- Only files are moved (folders are ignored)
+- Existing folders will not be deleted
+- Always double-check the path you enter
 
-Join the Discord:
-https://discord.gg/DmAeaDAa
+## Support & Community
+Join the Discord server for help, updates, and feedback:  
+👉 https://discord.gg/DmAeaDAa
 
-Enjoy! 🔥
+## License
+This project is free to use for personal and educational purposes.
