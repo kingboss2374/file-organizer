@@ -1,6 +1,8 @@
-# File Organizer (Python)
+# File Organizer_Safe Deleter (Python)
 
-A simple Python tool to organize files into folders based on their file extensions.
+A simple Python tool to organize files into folders based on their file 
+Useful for deleting files and folders with propmt to recycle or pemanent delete
+extensions.
 
 ## Features
 - Automatically sorts files into folders
