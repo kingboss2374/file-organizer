@@ -1,8 +1,24 @@
+# File Organizer & Safe Delete Scripts 🐐
+
+Organize your files and safely delete files/folders with these Python scripts.  
+
+## Features
+- Move files into categorized folders based on file type (.lua, .txt, .docx, etc.)
+- Safely delete files or folders, with option to send to Recycle Bin or permanently remove
+- Easy to use, just run the scripts and follow prompts
+
 ## Installation & Usage
+1. Download the scripts from this repository
+2. Make sure Python 3 is installed
+3. Follow the instructions in `README.txt` included with the scripts
+4. Run the scripts via command line or double-click
 
-1. Download the scripts (`organizer.py` and `safe_delete.py`) from this repository.
-2. Make sure you have Python 3 installed.
-3. Read the `README.txt` file included with the scripts — it explains step by step how to use them.
-4. Run the scripts by double-clicking or using the command line.
+## Support & Community
+Join our Discord server for help, updates, and feedback:  
+[https://discord.gg/yourinvite](https://discord.gg/yourinvite)
 
-Enjoy! 🐐
+## Donations / Support
+If you like these scripts and want to support development, consider donating via Gumroad:  
+[Your Gumroad Link Here](https://gumroad.com/yourusername)
+
+Enjoy! 🔥
