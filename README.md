@@ -13,12 +13,14 @@ Organize your files and safely delete files/folders with these Python scripts.
 3. Follow the instructions in `README.txt` included with the scripts
 4. Run the scripts via command line or double-click
 
-## Support & Community
-Join our Discord server for help, updates, and feedback:  
-https://discord.gg/DmAeaDAa
+## Donations & Support
 
-## Donations / Support
-If you like these scripts and want to support development, consider donating via Gumroad:  
-[Your Gumroad Link Here](https://gumroad.com/yourusername)
+This project is currently free.
+
+Monetization (donations via Gumroad) will be enabled in the future.
+For now, support is appreciated via feedback, bug reports, and community participation.
+
+Join the Discord:
+https://discord.gg/DmAeaDAa
 
 Enjoy! 🔥
