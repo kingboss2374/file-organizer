@@ -15,7 +15,7 @@ Organize your files and safely delete files/folders with these Python scripts.
 
 ## Support & Community
 Join our Discord server for help, updates, and feedback:  
-[https://discord.gg/yourinvite](https://discord.gg/yourinvite)
+https://discord.gg/DmAeaDAa
 
 ## Donations / Support
 If you like these scripts and want to support development, consider donating via Gumroad:  
